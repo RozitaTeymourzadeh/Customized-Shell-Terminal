@@ -1,0 +1,4 @@
+ls /
+echo "hi"
+echo "Testing for scripting ...."
+
